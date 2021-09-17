@@ -3,8 +3,8 @@
    
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
+    <img src="https://img.shields.io/github/repo-size/timothysepulvado/Readme-gen" />
+    <img src="https://img.shields.io/github/languages/top/timothysepulvado/Readme-genr"  />
     <img src="https://img.shields.io/github/issues/timothysepulvado/Readme-gen" />
     <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
     <a href="https://twitter.com/timsepulveda">
