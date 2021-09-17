@@ -84,9 +84,9 @@ Run the following command at th root of your project and answer the prompted que
 `node index.js`
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: TimothySepulvado](https://github.com/timothysepulvado)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:Timothysepulvado@yahoo.com) , [GitHub](https://github.com/timothysepulvado)<br />
 
     
