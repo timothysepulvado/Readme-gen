@@ -3,12 +3,12 @@
    
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
-    <img src="https://img.shields.io/github/issues/jpd61/README-generator" />
+    <img src="https://img.shields.io/github/repo-size/timothysepulvado/Readme-gen" />
+    <img src="https://img.shields.io/github/languages/top/timothysepulvado/Readme-genr"  />
+    <img src="https://img.shields.io/github/issues/timothysepulvado/Readme-gen" />
     <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
+    <a href="https://twitter.com/timsepulveda">
+        <img alt="Twitter: timsepulveda" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
     </a>
 </p>
   
@@ -84,9 +84,9 @@ Run the following command at th root of your project and answer the prompted que
 `node index.js`
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: TimothySepulvado](https://github.com/timothysepulvado)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](mailto:Timothysepulvado@yahoo.com) , [GitHub](https://github.com/timothysepulvado)<br />
 
     

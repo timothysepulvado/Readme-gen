@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpd61/README-generator.git"
+    "url": "git+https://github.com/timothysepulvado/Readme-gen"
   },
   "author": "Timothy Sepulvado",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jpd61/README-generator/issues"
   },
-  "homepage": "https://github.com/jpd61/README-generator#readme",
+  "homepage": "https://github.com/timothysepulvado/Readme-gen",
   "dependencies": {
     "axios": "^0.19.2",
     "inquirer": "^7.1.0",
